@@ -1,0 +1,20 @@
+** Listing And Smart Shopping Campaign For Google Changelog **
+2024-03-18
+* Add  - Add a feature to unpublish the product from GMC, from WooCommerce to GMC by using bulk action.
+* Add  - Add a feature to unpublish the product from GMC once we deleted product from our woocommerce store.
+* Add  - Add a feature to improve the inventory syncing while making any changes in price, stock and stock    status.
+* Add  - Add a feature to select a global category for your all Store products. 
+* Add  - Improved Stability with updated WooCommerce, pHp and Wordpress.
+
+
+2022-11-29 - version 1.0.1
+* Add Added On-boarding steps.
+* Add Added functionality to create a new merchant account and connect existing merchant account .
+* Add Added functionality to create a new ads account and connect existing ads account.
+* Add Added functionality to create campaign.
+* Add Seperate section to manage products.
+* Add Added dashbaord, faq and chat support.
+
+
+2021-06-17 - version 1.0.0
+* Inital release
